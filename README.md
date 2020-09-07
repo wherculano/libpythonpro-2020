@@ -2,6 +2,8 @@
  Refazendo todo o curso do [Site Python Pro](https://www.python.pro.br)
 
 #### PyTools
+[![Build Status](https://travis-ci.org/wherculano/libpythonpro-2020.svg?branch=master)](https://travis-ci.org/wherculano/libpythonpro-2020)
+
     - Apresentar um conjunto de ferramentas básico, mas poderoso, que Pythonistas experientes usam no dia-a-dia.
     - Nesse módulo será abordada a leitura e escrita de arquivos, com definição de unicode e encode. Instalação e
       criação de bibliotecas utilizando pip, virtualenv e pypi. Criação de testes automáticos com o framework pytest.
