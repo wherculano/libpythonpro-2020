@@ -3,6 +3,8 @@
 
 #### PyTools
 [![Build Status](https://travis-ci.org/wherculano/libpythonpro-2020.svg?branch=master)](https://travis-ci.org/wherculano/libpythonpro-2020)
+[![Updates](https://pyup.io/repos/github/wherculano/libpythonpro-2020/shield.svg)](https://pyup.io/repos/github/wherculano/libpythonpro-2020/)
+[![Python 3](https://pyup.io/repos/github/wherculano/libpythonpro-2020/python-3-shield.svg)](https://pyup.io/repos/github/wherculano/libpythonpro-2020/)
 
     - Apresentar um conjunto de ferramentas básico, mas poderoso, que Pythonistas experientes usam no dia-a-dia.
     - Nesse módulo será abordada a leitura e escrita de arquivos, com definição de unicode e encode. Instalação e
