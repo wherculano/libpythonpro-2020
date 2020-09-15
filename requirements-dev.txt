@@ -11,6 +11,7 @@ attrs>=18.1.0
 pluggy>=0.6.0
 py>=1.8.2
 pytest>=3.5.1
+pytest-mock>=3.3.1
 
 # Coverage
 coverage>=5.2.1
