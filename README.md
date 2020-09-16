@@ -18,14 +18,13 @@ Neste curso é ensinado a como contribuir com projetos de código aberto.
 
 Suportada versão 3 do Python
 ```console
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements-dev.text
+pip install pipenv
+pipenv sync -d
 ```
 
 Para conferir a qualidade do código:
 ```console
-flake8
+pipenv run flake8
 ```    
 
 Tópicos a serem abordados:    
