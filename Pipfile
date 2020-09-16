@@ -10,8 +10,10 @@ pytest-mock = "*"
 pytest-cov = "*"
 coverage = "*"
 
+
 [packages]
 requests = ">=2.24.0"
+
 
 [requires]
 python_version = "3.8"
